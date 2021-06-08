@@ -1,0 +1,2 @@
+exports.BASE_COLOR = "#F2F2F2";
+exports.SECONDARY_COLOR = "#565656";
